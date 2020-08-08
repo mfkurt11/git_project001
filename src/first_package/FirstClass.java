@@ -9,6 +9,8 @@ public class FirstClass {
 	
 	System.out.println("I want to have a conflict");
 	System.out.println(" I want to see a conflict");
+	System.out.println("This is my commit from feature branch");
+	System.out.println("This is my first commit from remote master branch");
 
 	}
 	
